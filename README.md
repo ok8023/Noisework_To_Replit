@@ -2,7 +2,7 @@
 
 源码官仓：https://github.com/rcy1314/noisework
 
-脚本开源：https://github.com/ok8023/home
+脚本开源：https://github.com/ok8023/Noisework_To_Replit
 
 # 使用说明
 
@@ -13,5 +13,5 @@ Replit环境选择`PHP Web Server`
 在Shell运行以下脚本
 
 ````
-bash <(curl -s https://raw.githubusercontent.com/ok8023/home/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/ok8023/Noisework_To_Replit/main/install.sh)
 ````
