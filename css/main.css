@@ -23,7 +23,7 @@ body,html {
 #background{
 	width: 140%;
 	filter: brightness(0.6);
-	background-image: url(https://ghproxy.com/https://raw.githubusercontent.com/ok8023/home/main/assets/09.45yi39hb3xo0.jpg);
+	background-image: url(https://ghproxy.com/https://raw.githubusercontent.com/ok8023/Noisework_To_Replit/main/assets/09.45yi39hb3xo0.jpg);
     background-size: 100%;
 	height: 140%;
 	position: absolute;
@@ -76,7 +76,7 @@ body::-webkit-scrollbar {display: none;}
     width: 340px;
     background-size: cover;
     background-position: center;
-	background-image: linear-gradient(to right,rgba(34,34,34,0) 0%,rgba(34,34,34,0) 180px,rgba(34,34,34) 340px),url(https://ghproxy.com/https://raw.githubusercontent.com/ok8023/home/main/assets/image.2mctsqprodu0.jpg);
+	background-image: linear-gradient(to right,rgba(34,34,34,0) 0%,rgba(34,34,34,0) 180px,rgba(34,34,34) 340px),url(https://ghproxy.com/https://raw.githubusercontent.com/ok8023/Noisework_To_Replit/main/assets/image.2mctsqprodu0.jpg);
 }
 #persontag {
     padding: 20px 20px 20px 80px;
